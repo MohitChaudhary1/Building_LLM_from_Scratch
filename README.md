@@ -46,8 +46,8 @@ This project mirrors the structured learning approach of the book while offering
 
 ## 📚 Table of Contents
 
-| Notebook | Description |
-|----------|-------------|
+| Notebook |  
+|----------|
 | Implements and visualizes a BPE tokenizer |
 | Word embeddings and positional encodings |
 | Scaled dot-product and multi-head attention |
